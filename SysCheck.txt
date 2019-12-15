@@ -1,0 +1,22 @@
+Created with SysCheck By Dcnigma 2019
+
+Atmosphere; is installed
+Emu Amiibo; is installed
+Sys NetCheat; is not installed
+Sys Audio; is not installed
+Sys FTPD; is installed
+Sys Con; is installed
+Sys CLK; is not installed
+Sys DVR; is not installed
+Boot Sound NX; is not installed
+Switch Presence; is installed
+
+
+ 
+
+Visit my blog for more cool projects: http://dcnigma.eu5.org
+or my youtube channel: https://www.youtube.com/channel/UCHLMK8BBqyDKyVC7b9VkVdw/
+
+
+ Keep the Dream alive!
+
