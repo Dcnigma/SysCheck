@@ -117,14 +117,21 @@ int main(int argc, char **argv)
                       Writefile(asm1check);
                   break;
 
+
               case UPDATE_APP2: //Exit for now!
-                  if (yesNoBox(cursor, 430, 250, "Quite program?") == YES)
+                  if (yesNoBox(cursor, 430, 250, "Quite program?") == YES){
                   //  update_app2();
 
                   SDL_Quit();
                   appExit();
-                  //break;
                   return 0;
+                  // statements to be executed if the test expression is true
+                  }
+                  else {
+               // statements to be executed if the test expression is false
+                  }
+                  //break;
+                  break;
 
               case UPDATE_APP3:
                   if (yesNoBox(cursor, 390, 250, "UPDATE_APP3?") == YES)
